@@ -1,19 +1,5 @@
-# aanyasoni-portfolioo
+# Aanya Soni — Personal Portfolio
+a static personal portfolio built for Aanya Soni. developed by The Orange Yak Co.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instructions for use
+Clone the repository to your local device and open in a live server.
